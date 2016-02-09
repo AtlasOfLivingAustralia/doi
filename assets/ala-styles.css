@@ -4,6 +4,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900);
 
 
+/* DOI-specific changes */
+dt {margin-top: 0.5em;}
+dd {margin-left: 1em;}
+
 /* Global
 ================================= */
 body{-webkit-font-smoothing:antialiased;background-color:#F2F2F2;font:normal 15px Roboto,Helvetica,"Helvetica Neue",Arial,sans-serif;padding-top:80px;}
